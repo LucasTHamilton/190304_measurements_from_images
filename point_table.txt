@@ -1,0 +1,7 @@
+| u  | v  | Easting | Northing | Elevation | Description    |
+|----|----|---------|----------|-----------|----------------|
+|1498|978|272558.68|5193938.07|1015|Main hall spire|
+|862|1409|273183.35|5194045.24|1137|Large rock outcrop on Sentinel|
+|2081|1589|272556.74|5193922.02|998|Southernmost window apex on main hall|
+|2951|2212|272537|5193907|982|South trash can|
+|906|1592|272558|5193954|997|Northmost window apex on main hall|
